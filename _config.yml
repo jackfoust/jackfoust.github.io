@@ -1,0 +1,8 @@
+title: Jack Foust
+description: PHP developer specializing in Drupal.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
